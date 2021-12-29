@@ -2,8 +2,8 @@ from tkinter import *
 from tkinter import Tk
 
 
-
 checkmates = {1:'penis',
+
                2: ' boop',
                3:'cheee'}
 

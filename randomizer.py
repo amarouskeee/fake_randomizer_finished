@@ -8,8 +8,6 @@ checkmates = {1:'penis',
                3:'cheee'}
 
 
-print(f'Победитель:{checkmates[3]}')
-
 root = Tk()
 root.title('RandSpot')
 
